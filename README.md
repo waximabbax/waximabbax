@@ -78,3 +78,5 @@ If you wanna know more about me, please visit my profiles or email me. Thanks.
 **Upwork Profile Link**: https://www.upwork.com/freelancers/abbaswaseem
 
 **LinkedIn**: https://www.linkedin.com/in/waximabbax/
+
+**Email**: waximabbax@gmail.com
