@@ -81,4 +81,3 @@ If you wanna know more about me, please visit my profiles or email me. Thanks.
 
 **Email**: waximabbax@gmail.com
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=waseemabbas8&show_icons=true)
