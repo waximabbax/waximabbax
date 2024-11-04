@@ -80,3 +80,5 @@ If you wanna know more about me, please visit my profiles or email me. Thanks.
 **LinkedIn**: https://www.linkedin.com/in/waximabbax/
 
 **Email**: waximabbax@gmail.com
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=waximabbax&show_icons=true)
